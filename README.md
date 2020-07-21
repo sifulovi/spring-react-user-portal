@@ -48,3 +48,5 @@ npm install
 ### UI OverView: 
 
 <img src="/gallery/1.PNG" alt="login Ui" style="height: 200px; width:400px;"/>
+<img src="/gallery/2.PNG" alt="Registration" style="height: 200px; width:400px;"/>
+<img src="/gallery/3.PNG" alt="profile" style="height: 200px; width:400px;"/>
